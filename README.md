@@ -3,7 +3,7 @@ projects in NCKU (2020-2024)
 
 
 | SEMESTER | TITLE |
-| :----:| :-----|
+| :-----| :-----|
 |2021 Spring | Creative Programming Application|
 |2021 Spring | IDesign Workshop|
 |2021 Fall   | Window Programming|

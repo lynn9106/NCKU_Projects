@@ -13,7 +13,7 @@ projects in NCKU (2020-2024)
 |2022 Fall	 | Microprocessor Principles and Applications|
 |2022 Fall	 | Theory of Computation|
 |2023 Spring | Fundamentals of Data Analysis|
-|2023 Spring | [Independent Study(Computer Project Design)]|
+|2023 Spring | Independent Study(Computer Project Design) [PC ver.](https://github.com/LinBoRui/unity-project-2023.git) & [VR ver.](https://github.com/weihsinyeh/Unity_VR_Project_Latest.git)|
 |2023 Spring | [Multimedia Systems and Applications](https://github.com/lynn9106/NCKU_Multimedia-Systems-and-Applications.git) |
 |2023 Spring | [Compiler Design](https://github.com/lynn9106/NCKU_Compiler2023.git) |
 

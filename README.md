@@ -8,7 +8,7 @@ projects in NCKU (2020-2024)
 |2021 Spring | [IDesign Workshop](https://github.com/lynn9106/e94091071_intropage.git)|
 |2021 Fall   | [Window Programming](https://github.com/lynn9106/CsharpFinal.git)|
 |2022 Spring | Computer Organization and Design|
-|2022 Fall	 | Operating System|
+|2022 Fall	 | [Operating System](https://github.com/lynn9106/NCKU_OS.git)|
 |2022 Fall	 | [Experiment on Digital System](https://github.com/lynn9106/NCKU_FightZombie.git)|
 |2022 Fall	 | [Microprocessor Principles and Applications](https://github.com/lynn9106/NCKU_microprocessor_final_project.git)|
 |2022 Fall	 | [Theory of Computation-lineBot](https://github.com/lynn9106/memelinebot.git)|

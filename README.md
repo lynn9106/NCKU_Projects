@@ -6,7 +6,7 @@ projects in NCKU (2020-2024)
 | :-----| :-----|
 |2021 Spring | [Creative Programming Application](https://github.com/lynn9106/e94091071_arduinofinal.git)|
 |2021 Spring | [IDesign Workshop](https://github.com/lynn9106/e94091071_intropage.git)|
-|2021 Fall   | Window Programming [Final Project](https://github.com/lynn9106/CsharpFinal.git) [Others](https://github.com/lynn9106/WindowProgramming_HW.git)|
+|2021 Fall   | Window Programming [Final Project](https://github.com/lynn9106/CsharpFinal.git) / [Others](https://github.com/lynn9106/WindowProgramming_HW.git)|
 |2022 Spring | Computer Organization and Design|
 |2022 Fall	 | [Operating System](https://github.com/lynn9106/NCKU_OS.git)|
 |2022 Fall	 | [Experiment on Digital System](https://github.com/lynn9106/NCKU_FightZombie.git)|
